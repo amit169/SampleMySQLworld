@@ -1,3 +1,0 @@
-[submodule "db/worlddb"]
-	path = db/worlddb
-	url = https://github.com/kakakakakku/mysql-world-database-dockerfiles
